@@ -25,7 +25,7 @@ function Footer() {
             <div className={styles.socialIcon}>
                 <ul>
                     <li>
-                        <i class="fa-solid fa-question-circle"></i>
+                        <i className="fa-solid fa-question-circle"></i>
                     </li>
                 </ul>
                 <ul>
