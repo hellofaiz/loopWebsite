@@ -1,0 +1,20 @@
+.card {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  box-shadow: 0 0 15px rgb(114, 134, 211);
+  border-radius: 5px;
+  padding: 10px;
+
+}
+.image {
+  text-align: center;
+}
+.content {
+  color: black;
+  padding: 20px;
+
+}
+.card:hover {
+  background-color: #e3e7f5;
+}
