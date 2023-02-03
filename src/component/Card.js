@@ -1,9 +1,7 @@
 import styles from '../css/Card.module.css';
 import responsiveImg from '../assets/responsive-design.png';
 import UI from '../assets/ui.png';
-import Rocket from '../assets/rocket.png';
 import Development from '../assets/development.png';
-import MobileApp from '../assets/mobile-app.png';
 
 
 
